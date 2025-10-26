@@ -1,8 +1,3 @@
-# javaScript
-
-Perfekt 🙌
-Här kommer ett snyggt och tydligt exempel på en README.md som du kan använda direkt för ett JavaScript-projekt i GitHub.
-Jag lägger till kommentarer så du ser hur allt fungerar:
 
 # 🚀 Mitt JavaScript-projekt
 
