@@ -47,7 +47,8 @@ Starta index.html i din webbläsare
 Skriv in ett värde i textfältet och klicka på ”Beräkna”.
 Resultatet visas direkt på sidan.
 
-## Exempel på JavaScript-funktion som används:  
+##  <img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/1069816d-4ae9-4158-aaef-85c690e69a6f" />
+ Exempel på JavaScript-funktion som används:  
 
 function calculateSquare(number) {
   return number * number;
