@@ -42,7 +42,7 @@ Exempel på funktioner:
 
 Starta index.html i din webbläsare
 
-🧠 Användning
+## 🧠 Användning  
 
 Skriv in ett värde i textfältet och klicka på ”Beräkna”.
 Resultatet visas direkt på sidan.
