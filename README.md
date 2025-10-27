@@ -60,7 +60,7 @@ function calculateSquare(number) {
 ├── script.js
 └── README.md
 
-🔗 Länkar
+##  🔗 Länkar  
 
 Projektets startsida
 
