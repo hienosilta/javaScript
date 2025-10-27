@@ -70,7 +70,7 @@ JavaScript-fil
 
 Mer om GitHub Markdown
 
-🪶 Licens
+## 🪶 Licens  
 
 Distribueras under MIT-licens.
 Se LICENSE
